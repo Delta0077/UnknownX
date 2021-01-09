@@ -26,7 +26,7 @@ bool PlayGame(int Difficulty)
     //print CodeSum and CodeProduct of a,b,c
     
     std::cout << "+ There are 3 numbers in the code";
-    std::cout << "\n+ The codes add-up to: "<<CodeSum;
+    std::cout << "\n+ The codes add-up to give: "<<CodeSum;
     std::cout << "\n+ The codes multiply to give: " << CodeProduct<<std::endl;
 
     // Store player guess
